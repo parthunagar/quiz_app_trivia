@@ -6,25 +6,28 @@
 <img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/1.png" height="400" width="200"><img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/2.png" height="400" width="200">
 <img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/3.png" height="400" width="200"><img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/4.png" height="400" width="200">
 
-<img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/5.png">
-<img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/6.png">
+<img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/2.png" height="400" width="200"><img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/3.png" height="400" width="200">
+<img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/4.png" height="400" width="200"><img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/5.png" height="400" width="200">
 
-<img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/7.png"><img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/8.png">
-<img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/9.png">
+<img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/6.png" height="400" width="200"><img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/7.png" height="400" width="200">
+<img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/8.png" height="400" width="200"><img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/9.png" height="400" width="200">
 
-<img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/10.png"><img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/11.png">
-<img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/12.png">
+<img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/10.png" height="400" width="200"><img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/11.png" height="400" width="200">
+<img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/12.png" height="400" width="200"><img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/13.png" height="400" width="200">
 
-<img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/13.png"><img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/14.png">
-<img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/15.png">
+<img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/14.png" height="400" width="200"><img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/15.png" height="400" width="200">
+<img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/16.png" height="400" width="200"><img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/17.png" height="400" width="200">
 
-<img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/16.png"><img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/17.png">
-<img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/18.png">
+<img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/18.png" height="400" width="200"><img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/19.png" height="400" width="200">
+<img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/20.png" height="400" width="200"><img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/21.png" height="400" width="200">
 
-<img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/19.png"><img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/20.png">
-<img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/21.png">
+<img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/22.png" height="400" width="200"><img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/23.png" height="400" width="200">
+<img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/24.png" height="400" width="200"><img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/25.png" height="400" width="200">
 
-<img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/22.png"><img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/23.png">
+<img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/26.png" height="400" width="200"><img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/27.png" height="400" width="200">
+<img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/28.png" height="400" width="200"><img 
+
+
 
 
 
