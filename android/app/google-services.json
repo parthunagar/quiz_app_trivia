@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "486275674039",
+    "project_id": "codequiz-735a1",
+    "storage_bucket": "codequiz-735a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486275674039:android:51b620621c47d006940232",
+        "android_client_info": {
+          "package_name": "com.programming.codequiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486275674039-dj00e745s0pb9c6c1s5rpce46u9nn59q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.programming.codequiz",
+            "certificate_hash": "45c377e5c238c9af3db91bee9e13a8cfc966a2e7"
+          }
+        },
+        {
+          "client_id": "486275674039-l3v8qabei681do9b1poulhjkcicsp092.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.programming.codequiz",
+            "certificate_hash": "ee069ca2936ce6e9aab1a6e6bf3f7a568913a939"
+          }
+        },
+        {
+          "client_id": "486275674039-ppjjg4c2d0fl7veqf84pau8aus98s3gg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrR9RIT9CiznFSgZTDy90S02ubljRukxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486275674039-m03o0ui5kl4262n2bcq1ata1pev6lbf1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "486275674039-09arc7pqcah3bjgtrk0eisnqejj4tbjf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.programming.codequiz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
