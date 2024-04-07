@@ -1,30 +1,30 @@
 
 ### 🎨 Design
 ### 👀 Look'n Feel (Underdevelopment)
-<img src="https://github.com/parthunagar/woocom/blob/main/assets/images/screenshot/woocom_banner1.png">
+<img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/banner1.png">
 
-<img src="https://github.com/parthunagar/woocom/blob/main/assets/images/screenshot/1.png"><img src="https://github.com/parthunagar/woocom/blob/main/assets/images/screenshot/2.png">
-<img src="https://github.com/parthunagar/woocom/blob/main/assets/images/screenshot/3.png">
+<img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/1.png"><img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/2.png">
+<img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/3.png">
 
-<img src="https://github.com/parthunagar/woocom/blob/main/assets/images/screenshot/4.png"><img src="https://github.com/parthunagar/woocom/blob/main/assets/images/screenshot/5.png">
-<img src="https://github.com/parthunagar/woocom/blob/main/assets/images/screenshot/6.png">
+<img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/4.png"><img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/5.png">
+<img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/6.png">
 
-<img src="https://github.com/parthunagar/woocom/blob/main/assets/images/screenshot/7.png"><img src="https://github.com/parthunagar/woocom/blob/main/assets/images/screenshot/8.png">
-<img src="https://github.com/parthunagar/woocom/blob/main/assets/images/screenshot/9.png">
+<img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/7.png"><img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/8.png">
+<img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/9.png">
 
-<img src="https://github.com/parthunagar/woocom/blob/main/assets/images/screenshot/10.png"><img src="https://github.com/parthunagar/woocom/blob/main/assets/images/screenshot/11.png">
-<img src="https://github.com/parthunagar/woocom/blob/main/assets/images/screenshot/12.png">
+<img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/10.png"><img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/11.png">
+<img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/12.png">
 
-<img src="https://github.com/parthunagar/woocom/blob/main/assets/images/screenshot/13.png"><img src="https://github.com/parthunagar/woocom/blob/main/assets/images/screenshot/14.png">
-<img src="https://github.com/parthunagar/woocom/blob/main/assets/images/screenshot/15.png">
+<img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/13.png"><img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/14.png">
+<img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/15.png">
 
-<img src="https://github.com/parthunagar/woocom/blob/main/assets/images/screenshot/16.png"><img src="https://github.com/parthunagar/woocom/blob/main/assets/images/screenshot/17.png">
-<img src="https://github.com/parthunagar/woocom/blob/main/assets/images/screenshot/18.png">
+<img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/16.png"><img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/17.png">
+<img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/18.png">
 
-<img src="https://github.com/parthunagar/woocom/blob/main/assets/images/screenshot/19.png"><img src="https://github.com/parthunagar/woocom/blob/main/assets/images/screenshot/20.png">
-<img src="https://github.com/parthunagar/woocom/blob/main/assets/images/screenshot/21.png">
+<img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/19.png"><img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/20.png">
+<img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/21.png">
 
-<img src="https://github.com/parthunagar/woocom/blob/main/assets/images/screenshot/22.png"><img src="https://github.com/parthunagar/woocom/blob/main/assets/images/screenshot/23.png">
+<img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/22.png"><img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/23.png">
 
 
 
