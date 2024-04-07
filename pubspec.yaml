@@ -92,6 +92,8 @@ flutter:
   assets:
     - assets/google_fonts/
     - assets/images/
+    - assets/screenshot/
+    - assets/screenshot/mokup/
     - assets/images/profile/
 
     - assets/images/emojis/
