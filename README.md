@@ -4,9 +4,9 @@
 <img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/banner1.png">
 
 <img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/1.png" height="400" width="200"><img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/2.png" height="400" width="200">
-<img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/3.png" height="400" width="200">
+<img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/3.png" height="400" width="200"><img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/4.png" height="400" width="200">
 
-<img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/4.png"><img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/5.png">
+<img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/5.png">
 <img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/6.png">
 
 <img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/7.png"><img src="https://github.com/parthunagar/quiz_app_trivia/blob/main/assets/screenshot/mokup/8.png">
